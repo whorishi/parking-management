@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <conio.h>
+ 
+//a program in c lang. just to demostrate a parking management system............
 
 struct{
 	int amount;
